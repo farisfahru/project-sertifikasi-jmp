@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ProjectSertifkasiJMP</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="gender">Gender</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Batal</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="update">Update</string>
+    <string name="change">Ubah</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="added">Satu item berhasil ditambahkan</string>
+    <string name="changed">Satu item berhasil diubah</string>
+    <string name="deleted">Satu item berhasil dihapus</string>
+    <string name="fab">FAB</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="location">Location</string>
+    <string name="tanggal">Tanggal :</string>
+    <string name="nama">Nama :</string>
+    <string name="alamat">Alamat :</string>
+    <string name="jenis_kelamin">Jenis Kelamin :</string>
+    <string name="telepon">Telepon :</string>
+    <string name="lokasi_pendaftaran">Lokasi Pendaftaran :</string>
+    <string name="foto">Foto :</string>
+    <string name="pilih_lokasi">Pilih lokasi</string>
+    <string name="upload_foto">Upload Foto</string>
+    <string name="upload">Upload</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="pilih_foto">Pilih Foto</string>
+</resources>
